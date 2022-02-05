@@ -28,7 +28,7 @@
 ## Technical/computer skills ##
 - Programming languages --> **C**, **Java**, **Python**.
 - Data Management.
-- Software proficiency --> Excell, Matlab, GitHub, Tableau, Google colab, Jupiter notebook,.....
+- Software proficiency --> Excell, Matlab, GitHub, Tableau, Google colab, Jupyter notebook,.....
 - Operating Systems --> Windows, Mac OS, Linux.
 
 ## Awards ##
