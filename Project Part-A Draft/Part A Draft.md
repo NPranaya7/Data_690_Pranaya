@@ -15,21 +15,21 @@ some time where Okun's Law proved wrong especially during Americas 2008 recessio
 find how accurate is okun's law.
 
 ## Analysis Topics
-**Data Source:**
--  World Development Explorer  https://www.worlddev.xyz/
+- **Data Source:**
+  -  World Development Explorer  https://www.worlddev.xyz/
 
-**Topics:**
-- Economy & Growth - GDP per capita, PPP (current international $)
-- Health - Population, total
-- Education - Unemployment, total (% of total labor force) (modeled ILO estimate)
-- Economy & Growth - Inflation, consumer prices (annual %)
-**Countries:**
-- United States
-- United Kingdom
-- India
-- China
-**Time Plot Between:**
-- 2006 to 2020 
+- **Topics:**
+  - Economy & Growth - GDP per capita, PPP (current international $)
+  -  Health - Population, total
+  - Education - Unemployment, total (% of total labor force) (modeled ILO estimate)
+  - Economy & Growth - Inflation, consumer prices (annual %)
+- **Countries:**
+  - United States
+  - United Kingdom
+  - India
+  - China
+- **Time Plot Between:**
+  - 2006 to 2020 
  
 ## Graph Analysis:
 **1. 2019 Bar Plot of all countries GDP per capita,**
